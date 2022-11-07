@@ -1,0 +1,14 @@
+html,
+header{
+  color: rgb(255, 255, 255);
+}
+body {
+  color: rgb(0,30,60);
+  background: rgb(0,30,60);
+}
+.chosen{
+  background: rgb(92, 92, 92);
+}
+.matched{
+  background: rgb(0,30,60);
+}
